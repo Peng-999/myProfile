@@ -13,7 +13,6 @@ import {
     git,
     Pro,
     blender,
-    meta,
     KV,
     Hobbies,
     arvr,
@@ -199,7 +198,7 @@ import {
         "Solar system developed using Unity as a training module for children",
       tags: [
         {
-          name: "unity",
+          name: "Unity",
           color: "blue-text-gradient",
         },
         {
