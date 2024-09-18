@@ -37,7 +37,7 @@ const Contact = () => {
         <div className="flex flex-row gap-10">
           <a href="https://www.instagram.com/pengu1n._._/" target="_blank"><img src="icons/insta.svg" className="mt-2 h-10 v-10" /></a>
           <a href="https://www.youtube.com/@peng9940" target="_blank"><img src="icons/yt.svg" className="mt-2 h-10 v-10" /></a> 
-          <a href="https://github.com/Peng-999" target="_blank"><img src="src/assets/github.png" className="mt-2 h-10 v-10" /></a>     
+          <a href="https://github.com/Peng-999" target="_blank"><img src="icons/github.svg" className="mt-2 h-10 v-10" /></a>     
         </div>  
       </motion.div>      
       <div>      
