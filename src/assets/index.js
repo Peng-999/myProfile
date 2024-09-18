@@ -45,7 +45,7 @@ export {
   javascript,
   nodejs,
   reactjs,
-  unity,
+  Unity,
   tailwind,
   threejs,
   meta,
