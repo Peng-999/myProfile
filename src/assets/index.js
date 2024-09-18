@@ -19,7 +19,6 @@ import tailwind from "./tech/tailwind.png";
 import Pro from "./tech/Pro.png"
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
 import arvr from "./company/arvr.png";
 import KV from "./company/KV.png";
 import Hobbies from "./company/Hobbies.png";
@@ -48,7 +47,6 @@ export {
   Unity,
   tailwind,
   threejs,
-  meta,
   arvr,
   KV,
   Hobbies,
