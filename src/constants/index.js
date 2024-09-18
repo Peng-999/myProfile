@@ -7,7 +7,7 @@ import {
     html,
     css,
     reactjs,
-    unity,
+    Unity,
     tailwind,
     nodejs,
     git,
@@ -76,7 +76,7 @@ import {
     },
     {
       name: "Unity",
-      icon: unity,
+      icon: Unity,
     },
     {
       name: "Tailwind CSS",

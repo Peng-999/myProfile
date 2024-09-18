@@ -14,7 +14,7 @@ import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
-import unity from "./tech/unity.png";
+import Unity from "./tech/Unity.png";
 import tailwind from "./tech/tailwind.png";
 import Pro from "./tech/Pro.png"
 import threejs from "./tech/threejs.svg";
